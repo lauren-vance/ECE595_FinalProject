@@ -1,6 +1,6 @@
 # ECE595_FinalProject
 
-This program was created for the final project of ECE 59500: Intro to Embedded Systems at IUPUI. It is written in C for the NXP FRDM-K64F. The included libraries were found with mbed online IDE. 
+This program was created for the final project of ECE 59500: Intro to Embedded Systems at IUPUI. It is written in C for the NXP FRDM-K64F. The included libraries were found with mbed online IDE. The file "main.c" was written by me. 
 
 The motivation for this project was to create something useful as the COVID-19 pandemic entered the summer season. Enter: The Motorized Touchless Cooler with RFID-Controlled Lid! The cooler is embedded with the FRDM-K64F, which allows for control of movement via Bluetooth-connected Android app and control of lid motion with an RFID reader. You can remain socially distant while sharing your icy treats and stay safe knowing that you have control over who has access to the contents.
 
