@@ -1,4 +1,4 @@
-# ECE595_FinalProject
+# ECE595 FinalProject
 
 This program was created for the final project of ECE 59500: Intro to Embedded Systems at IUPUI. It is written in C for the NXP FRDM-K64F. The included libraries were found with mbed online IDE. The file "main.c" was written by me. 
 
@@ -23,3 +23,13 @@ The equipment used for this project are as follows:
 
 *Note: various mounting hardware was also used to create the wooden base and mount the wheels. A small drop-section can be created in the wooden base to store the electronics so the cooler merely just rests on the wooden base to be carried off wherever you'd like.
 
+## Images
+
+Unlocking the lid with the RFID card:
+![Unlocking the Lid](https://i.imgur.com/1eGaI2Vm.jpg)
+
+App Screenshot:
+![App Screenshot](https://i.imgur.com/go66SR5m.png)
+
+Hardware Inside:
+![Hardware Inside](https://i.imgur.com/bsjQhc5m.jpg)
