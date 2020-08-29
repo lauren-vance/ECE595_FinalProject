@@ -26,10 +26,13 @@ The equipment used for this project are as follows:
 ## Images
 
 Unlocking the lid with the RFID card:
+
 ![Unlocking the Lid](https://i.imgur.com/1eGaI2Vm.jpg)
 
 App Screenshot:
+
 ![App Screenshot](https://i.imgur.com/go66SR5m.png)
 
 Hardware Inside:
+
 ![Hardware Inside](https://i.imgur.com/bsjQhc5m.jpg)
