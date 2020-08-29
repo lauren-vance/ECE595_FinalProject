@@ -27,7 +27,7 @@ The equipment used for this project are as follows:
 
 First, use the mobile app to drive the cooler to you. App Screenshot:
 
-![App Screenshot](https://i.imgur.com/go66SR5m.png)
+![App Screenshot](https://i.imgur.com/go66SR5l.png)
 
 Next, unlock the lid with the RFID card and it will open automatically:
 
