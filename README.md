@@ -25,13 +25,17 @@ The equipment used for this project are as follows:
 
 ## Images
 
-Unlocking the lid with the RFID card:
+First, use the mobile app to drive the cooler to you. App Screenshot:
+
+![App Screenshot](https://i.imgur.com/go66SR5m.png)
+
+Next, unlock the lid with the RFID card and it will open automatically:
 
 ![Unlocking the Lid](https://i.imgur.com/1eGaI2Vm.jpg)
 
-App Screenshot:
+Finally...grab a drink! Scan RFID card again to close the lid
 
-![App Screenshot](https://i.imgur.com/go66SR5m.png)
+![Grabbing a Drink!](https://i.imgur.com/cHlqaFnm.jpg)
 
 Hardware Inside:
 
