@@ -23,11 +23,11 @@ The equipment used for this project are as follows:
 
 *Note: various mounting hardware was also used to create the wooden base and mount the wheels. A small drop-section can be created in the wooden base to store the electronics so the cooler merely just rests on the wooden base to be carried off wherever you'd like.
 
-## Images
+## Photos
 
 First, use the mobile app to drive the cooler to you. App Screenshot:
 
-![App Screenshot](https://i.imgur.com/go66SR5l.png)
+![App Screenshot](https://i.imgur.com/VjffHtUl.png?1)
 
 Next, unlock the lid with the RFID card and it will open automatically:
 
